@@ -5,7 +5,7 @@ import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.util.Vector;
 
-public class GetPlayerRayPos {
+public class GetViewpointPos {
 
     public Location get(Player player, double range, double step) {
         // 視線の起点と方向を取得
